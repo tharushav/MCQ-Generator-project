@@ -1,0 +1,14 @@
+Metadata-Version: 2.4
+Name: my_package
+Version: 0.0.1
+Author: Tharusha Vihanga
+Author-email: tharushavihanga2003@gmail.com
+Requires-Dist: langchain
+Requires-Dist: huggingface_hub
+Requires-Dist: streamlit
+Requires-Dist: python-dotenv
+Requires-Dist: PyPDF2
+Requires-Dist: langchain_huggingface
+Dynamic: author
+Dynamic: author-email
+Dynamic: requires-dist

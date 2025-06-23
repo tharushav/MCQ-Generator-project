@@ -1,0 +1,6 @@
+langchain
+huggingface_hub
+streamlit
+python-dotenv
+PyPDF2
+langchain_huggingface
