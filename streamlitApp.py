@@ -14,7 +14,7 @@ import streamlit as st
 
 
 #loading json file
-with open("/Users/tharushavihanga/Developer/MCQ-Generator-project/Response.json", "r") as file:
+with open("Response.json", "r") as file:
     response_json = json.load(file)
     
 # Creating a title for the app
