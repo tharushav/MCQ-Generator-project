@@ -1,6 +1,6 @@
 MCQ,Choices,Correct
-What is the main focus of machine learning?,a: Making predictions based on historical data | b: Enabling computers and machines to imitate the way that humans learn | c: Making decisions based on a set of rules | d: Analyzing and clustering unlabeled datasets,b
-What is the main difference between deep learning and classical machine learning?,a: Deep learning requires more structured data to learn | b: Deep learning uses labeled datasets to train algorithms | c: Deep learning can ingest unstructured data in its raw form | d: Deep learning is only used for image recognition,c
-What is the main goal of the error function in machine learning?,a: To evaluate the prediction of the model | b: To adjust the weights of the model | c: To cluster unlabeled datasets | d: To make predictions based on historical data,a
-What type of machine learning algorithm is used for clustering unlabeled datasets?,a: Supervised learning | b: Unsupervised learning | c: Semi-supervised learning | d: Reinforcement learning,b
-What is an example of a machine learning algorithm used for predicting numerical values?,a: Decision trees | b: Random forests | c: Linear regression | d: Neural networks,c
+What is machine learning?,a: A type of artificial intelligence | b: A type of biology | c: A type of physics | d: A type of chemistry,a
+What is the main difference between machine learning and deep learning?,"a: Machine learning uses labeled datasets, while deep learning uses unstructured data | b: Machine learning uses unstructured data, while deep learning uses labeled datasets | c: Machine learning is faster than deep learning | d: Machine learning is slower than deep learning",a
+What is a neural network?,a: A type of machine learning algorithm | b: A type of deep learning algorithm | c: A type of neural network is a sub-field of machine learning | d: A neural network is a sub-field of neural networks,c
+What is the main goal of supervised learning?,a: To analyze and cluster unlabeled datasets | b: To predict numerical values | c: To classify data into categories | d: To use labeled datasets to train algorithms,d
+What is reinforcement learning?,a: A machine learning model that learns from sample data | b: A machine learning model that learns as it goes by using trial and error | c: A type of unsupervised learning | d: A type of supervised learning,b
